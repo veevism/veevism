@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
+
 # 💫 ABOUT ME:
 🔭 I’m currently working on my software development projects in my third year of university.<br><br>👯 I’m looking to collaborate on impactful open-source projects.<br><br>🤝 I’m looking for help with complex algorithms and systems design.<br><br>🌱 I’m currently learning about AI and machine learning.<br><br>💬 Ask me about my programming projects and future trends in software engineering.<br><br>⚡ Fun fact : The first computer "bug" was actually a trapped moth!
 
