@@ -16,10 +16,6 @@
 # 💫 ABOUT ME:
 🔭 I’m currently working on my software development projects in my third year of university.<br><br>👯 I’m looking to collaborate on impactful open-source projects.<br><br>🤝 I’m looking for help with complex algorithms and systems design.<br><br>🌱 I’m currently learning about AI and machine learning.<br><br>💬 Ask me about my programming projects and future trends in software engineering.<br><br>⚡ Fun fact : The first computer "bug" was actually a trapped moth!
 
-
-# 🌐 SOCIALS:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/veevism/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/veevism) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@veevism) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15806129) 
-
 # 💻 TECH STACK:
 ![My Skills](https://skillicons.dev/icons?i=java,js,ts,python)
 | Skill | List |
