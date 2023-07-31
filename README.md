@@ -17,6 +17,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=veevism&limit=5&theme=onedark&combine_all_yearly_contributions=true)
