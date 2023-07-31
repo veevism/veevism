@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
