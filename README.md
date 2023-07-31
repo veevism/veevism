@@ -7,10 +7,14 @@
 <a href="https://stackoverflow.com/users/15806129"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> 
 
 </div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 
-
+---
 
 
 # 💫 ABOUT ME:
